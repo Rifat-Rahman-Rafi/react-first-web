@@ -1,0 +1,18 @@
+.main_container{
+    /* display: flex;
+    justify-content: space-between;
+    margin-top: 20PX; */
+
+    margin-top: 20px;
+}
+/* .view_card{
+    width: 55%;
+} */
+.Bookmark_List{
+   /*- width: 40%;*/
+}
+.cources_det{
+    text-align: start;
+    padding-left: 15px;
+    padding-bottom: 10px;
+}
